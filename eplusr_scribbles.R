@@ -140,6 +140,7 @@ build_metadat <-
   )
 
 
+fwrite(build_metadat, 'data/clean_phl_buildings/build_metadat.csv')
 
 
   
